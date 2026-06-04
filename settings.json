@@ -8,7 +8,7 @@
   "server": {
     "ip": "FreeGamer8.aternos.me",
     "port": 23352,
-    "version": "false",
+    "version": false,
     "try-creative": false
   },
   "position": {
